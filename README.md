@@ -37,9 +37,13 @@ Both datasets use 5-minute aggregation intervals, and the experiments evaluate 1
 └── README.md
 ```
 
-## Dataset
+## Datasets
 
-The full dataset files are not committed to this repository. Place the following files in `data/`:
+The full dataset files are not committed to this repository. They are available from the following Google Drive folder:
+
+[Download datasets] https://drive.google.com/drive/folders/14DgaPi3bXwlJWTKcAT29YZJSbwQ5LOHM?usp=sharing
+
+After downloading, place the dataset files under:
 
 ```text
 data/V_228.csv      # PeMSD7(M) speed data
@@ -47,8 +51,6 @@ data/W_228.csv      # PeMSD7(M) adjacency matrix
 data/pems-bay.h5    # PeMS-BAY speed data
 data/W_Bay.csv      # PeMS-BAY adjacency matrix
 ```
-
-See `data/README.md` for details.
 
 ## Environment
 
