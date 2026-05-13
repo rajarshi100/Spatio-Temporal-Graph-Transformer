@@ -1,7 +1,7 @@
 # Dataset files
 
 This project uses the PeMSD7(M) and PeMS-BAY traffic forecasting datasets.
-The full data files are not committed to this repository because they are large and may have separate redistribution terms.
+The full data files are not committed to this repository because they are large and may be downloaded from the link given in the main README.
 
 Expected files:
 
@@ -14,4 +14,4 @@ W_Bay.csv      # PeMS-BAY weighted adjacency matrix
 
 Place the files either in the repository root or in this `data/` directory, then pass their paths through the command-line arguments shown in the main README.
 
-If you host the files externally, add the download link here.
+
