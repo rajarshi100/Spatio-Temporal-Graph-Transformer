@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this repository. This was an unpublished research project."
+title: "Spatio-Temporal Graph Transformer for Traffic State Prediction"
+authors:
+  - family-names: Chattopadhyay
+    given-names: Rajarshi
+  - family-names: Tham
+    given-names: Chen-Khong
+repository-code: "https://github.com/rajarshi100/Spatio-Temporal-Graph-Transformer"
+type: software

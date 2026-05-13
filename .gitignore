@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+.venv/
+venv/
+STGT_env/
+
+# Datasets / large files
+*.h5
+*.csv
+data/*.h5
+data/*.csv
+V_228.csv
+W_228.csv
+W_Bay.csv
+pems-bay.h5
+
+# Training outputs
+logs/
+checkpoints/
+runs/
+outputs/
+*.h5
+*.ckpt
+*.pt
+*.pth
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+.ipynb_checkpoints/
